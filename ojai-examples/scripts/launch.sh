@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Execute this shell with user : mapr
+
 # Useful links :
 # https://community.mapr.com/thread/22280-maprdb-jsoncan-an-application-connect-without-mapr-client
 # https://community.mapr.com/docs/DOC-1420
